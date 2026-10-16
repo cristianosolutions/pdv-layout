@@ -1,0 +1,8 @@
+.rpdv-editor .toolbar { flex-wrap: wrap; gap: 12px; }
+.rpdv-editor .toolbar input { max-width: 210px; }
+.rpdv-editor .canvas-info { height: auto; min-height: 38px; flex-shrink: 0; padding: 10px; }
+.rpdv-list { overflow-y: auto; }
+.rpdv-list button { display: block; width: 100%; text-align: left; padding: 8px; margin: 4px 0; border: 1px solid #d0d5dd; border-radius: 6px; background: white; }
+.rpdv-list small { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.rpdv-list .rpdv-selected { background: #dcfce7; border-color: #0b5d35; }
+.rpdv-editor .properties-panel > label { display: block; margin: 12px 0; font-size: 13px; }
