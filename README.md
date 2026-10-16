@@ -4,6 +4,19 @@ Editor visual de telas para PDV, desenvolvido com React, TypeScript, Vite e Konv
 
 Repositório: [cristianosolutions/pdv-layout](https://github.com/cristianosolutions/pdv-layout).
 
+## Tecnologias utilizadas
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Konva](https://img.shields.io/badge/Konva-0D83CD?style=for-the-badge&logo=konva&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+React e TypeScript compõem a interface; Vite executa o servidor local e gera a compilação. Konva, integrado por react-konva, desenha e manipula os objetos no canvas. CSS define os estilos, e Lucide React fornece os ícones da interface. Node.js e npm executam as ferramentas e gerenciam as dependências; ESLint analisa o código.
+
 ## Projeto em execução
 
 ![PDV Layout Studio com o modelo Supermercado aberto, ferramentas de edição, camadas e painel de propriedades](docs/images/pdv-layout-studio.png)
