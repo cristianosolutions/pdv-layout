@@ -4,6 +4,10 @@ Editor visual de telas para PDV, desenvolvido com React, TypeScript, Vite e Konv
 
 Repositório: [cristianosolutions/pdv-layout](https://github.com/cristianosolutions/pdv-layout).
 
+## Projeto em execução
+
+![PDV Layout Studio com o modelo Supermercado aberto, ferramentas de edição, camadas e painel de propriedades](docs/images/pdv-layout-studio.png)
+
 ## Instalação e manutenção
 
 Consulte o [guia de instalação, execução e manutenção](docs/DESENVOLVIMENTO.md) para baixar do GitHub, preparar o computador, rodar localmente, modificar o código e enviar melhorias.
